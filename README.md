@@ -124,7 +124,7 @@ wget -N --no-check-certificate https://raw.githubusercontent.com/github3444/doub
 
 #### 下载安装:
 ``` bash
-wget -N --no-check-certificate https://raw.githubusercontent.com/ToyoDAdoubi/doubi/master/brook.sh && chmod +x brook.sh && bash brook.sh
+wget -N --no-check-certificate https://raw.githubusercontent.com/github3444/doubi/master/brook.sh && chmod +x brook.sh && bash brook.sh
 ```
 
 ---
